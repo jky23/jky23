@@ -7,6 +7,16 @@ I am looking forward to participate in work on these areas.
 
 
 
+My interests are :
+
+ - Artificial Intelligence and related 💻
+ - Volley-Ball 🏐
+ - E-Gaming 🎮
+ - Japanese manga 👺
+ - Piano 🎹
+
+---
+
  ## 🔧 Technologies & Tools
 
  
