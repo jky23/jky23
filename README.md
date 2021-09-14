@@ -26,7 +26,7 @@ My interests are :
  
 ![](https://komarev.com/ghpvc/?username=jky23&style=flat-square&label=Profile+Views&color=blueviolet)
 
-[![Linkedin: Ky](https://img.shields.io/badge/-Ky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joël-roman-ky-205a06153/)](https://www.linkedin.com/in/joël-roman-ky-205a06153/)
+[![Linkedin: Ky](https://img.shields.io/badge/-Ky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joël-roman-ky/)](https://www.linkedin.com/in/joël-roman-ky-205a06153/)
 [![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/jky23)
 ![Twitter Follow](https://img.shields.io/twitter/follow/KyJolRoman2?style=social)
 
