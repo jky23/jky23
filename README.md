@@ -24,10 +24,10 @@ My interests are :
  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
  
  
-![](https://komarev.com/ghpvc/?username=jky23&style=flat-square&label=Profile+Views&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=joelromanky&style=flat-square&label=Profile+Views&color=blueviolet)
 
 [![Linkedin: Ky](https://img.shields.io/badge/-Ky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joël-roman-ky/)](https://www.linkedin.com/in/joël-roman-ky/)
-[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/jky23)
+[![GitHub Ky](https://img.shields.io/github/followers/joelromanky?label=follow&style=social)](https://github.com/joelromanky)
 ![Twitter Follow](https://img.shields.io/twitter/follow/KyJolRoman2?style=social)
 
 <!--
@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 [![Trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelromanky&layout=compact&theme=dark&hide_border=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jky23&show_icons=true&hide_border=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=joelromanky&show_icons=true&hide_border=true&theme=dark)
