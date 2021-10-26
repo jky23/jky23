@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Joël Ky, an Engineer graduated 🎓 from Toulouse INP-ENSEEIHT in Computer Science and Telecommunications, with a major in High Performance Computing and Big Data.  
+I am Joël Ky, a PhD Candidate in Computer Science at University of Lorraine/LORIA. I am also an Engineer graduated 🎓 from Toulouse INP-ENSEEIHT in Computer Science and Telecommunications, with a major in High Performance Computing and Big Data.  
 I will soon hold an engineering degree in Computer Science and Applied Mathematics and a master's degree in Computer Science.  
 I have a great interest in the themes of Artificial Intelligence and its applications in the world of industry. I believe that the ethics (explainability, generalizability, security, reliability ...) of AI algorithms constitutes one of the major challenges of our time.  
 I am looking forward to participate in work on these areas.  
